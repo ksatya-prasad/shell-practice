@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VAR_1="satya"
-VAR_2="leela"
+VAR_1=$1
+VAR_2=$2
 
 echo "$VAR_1$VAR_2"
